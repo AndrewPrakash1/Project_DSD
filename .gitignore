@@ -1,0 +1,8 @@
+vivado/
+sim_run/
+.Xil/
+*.jou
+*.log
+*.pb
+*.wdb
+scripts/build_console.txt
